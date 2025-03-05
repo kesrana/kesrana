@@ -1,4 +1,4 @@
-👋 Hi, I’m Kesley!
+Hi, I'm Kesley 👋
 
 ![image](https://github.com/user-attachments/assets/3923de4b-d73b-4a43-ae31-b15beb556e40)
 
