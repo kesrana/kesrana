@@ -16,7 +16,7 @@
 	•	Exploring radio hardware, DSP, and wireless communications
 	•	Debugging and optimizing low-level firmware for performance
 
-🔍 Currently a Hardware Engineer Co-op (RF) at NETGEAR, refining my skills in electronic systems, signal integrity, and troubleshooting hardware.
+🔍 Currently a Hardware Engineer Intern at NETGEAR, refining my skills in electronic systems, signal integrity, and troubleshooting hardware.
 
 📌 Check out my projects, repositories, and contributions—always looking to collaborate on exciting embedded & hardware challenges!
 
