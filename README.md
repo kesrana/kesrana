@@ -16,7 +16,7 @@
 	•	Exploring radio hardware, DSP, and wireless communications
 	•	Debugging and optimizing low-level firmware for performance
 
-🔍 My past internships have provided me with expertise in hardware design/debugging, hardware testing, software testing, automation
+🔍 My past internships at **NETGEAR** have provided me with expertise in **hardware design/debugging**, **hardware verification**, **software testing**, and **automation**
 
 📌 Check out my projects, repositories, and contributions—always looking to collaborate on exciting embedded & hardware challenges!
 
