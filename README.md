@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/3923de4b-d73b-4a43-ae31-b15beb556e40)
 
-🎓 Computer Engineering Student | 🔬 Passionate about Embedded Systems, Firmware Development, and Digital Design
+🎓 Computer Engineering Student | 🔬 Passionate about Embedded Systems, Firmware Development, Digital Design, and Automation
 
 💡 I love building and optimizing hardware-software systems, whether it’s low-level firmware, digital logic design, or signal processing applications. My expertise spans:
 ✔ Embedded & Firmware Programming (C, C++, Python)
@@ -16,7 +16,7 @@
 	•	Exploring radio hardware, DSP, and wireless communications
 	•	Debugging and optimizing low-level firmware for performance
 
-🔍 Currently a Hardware Engineer Intern at NETGEAR, refining my skills in electronic systems, signal integrity, and troubleshooting hardware.
+🔍 My past internships have provided me with expertise in hardware design/debugging, hardware testing, software testing, automation
 
 📌 Check out my projects, repositories, and contributions—always looking to collaborate on exciting embedded & hardware challenges!
 
